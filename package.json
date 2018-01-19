@@ -1,0 +1,12 @@
+{
+  "name": "tsai",
+  "version": "0.1.0",
+  "description": "A sketch of a test runner for JS modules",
+  "repository": "PolymerLabs/tsai",
+  "main": "./lib/tsai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Polymer Authors",
+  "license": "BSD-3-Clause"
+}
